@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="44.002537mm"
+   height="44.9827mm"
+   viewBox="0 0 44.002537 44.9827"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="toilet.svg"
+   style="enable-background:new">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5950"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop5948" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.21"
+     inkscape:cx="106.5887"
+     inkscape:cy="59.31845"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1276"
+     inkscape:window-height="761"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="leak"
+     style="display:inline;opacity:1"
+     transform="translate(-58.489572,-61.746501)">
+    <path
+       style="display:inline;opacity:1;fill:#d5ff00;fill-opacity:1;stroke:none;stroke-width:0.57039481px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.237466,99.32759 c -2.777321,1.696 1.187639,1.98795 2.075017,4.12377 3.620951,8.71524 4.362492,-3.03531 6.704428,-0.14825 2.668343,3.28945 3.112178,-2.10388 6.96586,-0.42739 6.001238,2.61074 0.493307,-4.54029 9.419291,-0.93165 7.437288,-4.565058 -1.181247,-3.15501 5.090048,-10.382165 -0.72938,-6.09557 -12.513917,-0.705958 -13.50171,-0.08421 -5.582612,3.513893 -6.380695,-0.778404 -13.443526,1.092228 -7.062832,1.870633 -0.934815,3.343084 -3.309408,6.757667 z"
+       id="path4496"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssccszcc" />
+  </g>
+  <g
+     inkscape:label="toilet"
+     id="layer1"
+     style="display:inline;opacity:1"
+     inkscape:groupmode="layer"
+     transform="translate(-58.489572,-61.746501)">
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 92.8397,63.360669 C 85.898169,62.83404 59.5948,60.571458 59.489952,70.086895 59.353493,82.471161 93.683934,75.934706 94.191665,74.75 Z"
+       id="path4485"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4489"
+       ry="3.7041667"
+       rx="11.203494"
+       cy="69.722916"
+       cx="77.126038" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96135266"
+       d="m 71.653024,77.55406 c 0,0 19.604442,6.854275 5.913826,20.120963 -3.683025,3.568977 11.049043,0.957132 18.776239,0.653502 L 94.191665,74.75 c -7.126427,2.287274 -14.780557,2.727585 -22.538641,2.80406 z"
+       id="path4491"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4539"><textPath
+         xlink:href="#path4490"
+         id="textPath4492"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8166666px;font-family:HammersmithOne;-inkscape-font-specification:HammersmithOne;stroke-width:0.26458332">leaks</textPath></text>
+    <path
+       style="display:inline;fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.976011,61.778341 c -1.808286,8.964942 3.835914,28.013699 1.426051,40.165729"
+       id="path4490"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
