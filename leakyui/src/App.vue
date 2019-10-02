@@ -1,16 +1,19 @@
 <template>
   <div id="app">
+    <Add />
     <Search />
   </div>
 </template>
 
 <script>
 import Search from './components/Search.vue'
+import Add from './components/Add.vue'
 
 export default {
     name: 'app',
     components: {
-    Search
+    Search,
+    Add
     },
     created() {
         this.$pouch.connect('user', 'user', 'https://database.shameless-postcard-queue.5th.ch/test')
