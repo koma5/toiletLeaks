@@ -8,10 +8,16 @@
 import Search from './components/Search.vue'
 
 export default {
-  name: 'app',
-  components: {
+    name: 'app',
+    components: {
     Search
-  }
+    },
+    created() {
+        this.$pouch.connect('user', 'user', 'https://database.shameless-postcard-queue.5th.ch/test')
+        this.$pouch.sync('https://database.shameless-postcard-queue.5th.ch/test')
+
+    }
+
 }
 </script>
 
